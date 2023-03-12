@@ -12,6 +12,7 @@ import pytesseract
 import argparse
 import imutils
 import cv2
+import io
 import os
 import image as im
 import deep_translator
